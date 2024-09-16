@@ -1,0 +1,380 @@
+.head-section {
+    background: #2D1E6B;
+}
+
+
+.hero {
+    background: #2D1E6B;
+    background-image: #2D1E6B;
+    color: #fff;
+    text-align: center;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+}
+
+
+
+.button-container {
+    display: flex;
+    gap: 20px;
+}
+
+.buy-now-button,
+.play-now-button {
+    border: #d100d1;
+    background: linear-gradient(to right, #6a00f4, #d100d1);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.play-now-button {
+    color: #d100d1;
+    background: transparent;
+    /* Ubah latar belakang menjadi transparan */
+    border: 2px solid #d100d1;
+    /* Gunakan warna yang sama dengan gradien BUY NOW */
+}
+
+.img-wrap {
+    margin-right: 244.5px;
+    color: #FFF;
+
+    font-family: Ondo;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 110.6%;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+}
+
+.img1 {
+    margin-right: 71.5px;
+    width: 130px;
+}
+
+.img2 {
+    margin-right: 71.5px;
+    width: 150px;
+
+}
+
+.img3 {
+    margin-right: 71.5px;
+    width: 150px;
+
+}
+
+.choose-games-section {
+    background: #2D1E6B;
+    text-align: center;
+    padding: 50px 0;
+    /* Adjust padding as needed */
+}
+
+h2 {
+    color: #fff;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+
+
+}
+
+p {
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+.styled-text {
+    color: #d100d1;
+}
+
+.image-container {
+    display: flex;
+    justify-content: space-between;
+    /* Adjust spacing as needed */
+}
+
+img {
+    width: 300px;
+    /* Adjust image width as needed */
+    height: auto;
+}
+
+.iemge {
+    margin-top: 100.72px;
+    width: 1500px;
+}
+
+.imga {
+    margin-top: 170px;
+}
+
+.imgb {
+    margin-top: 170px;
+}
+
+.button {
+    margin-top: 87.35px;
+}
+
+.bg{
+    background-color: #2D1E6B;
+}
+
+.gaming-header {
+    background-color: #2D1E6B !important;
+    background-image: url(assets/Rectangle\ 5.png);
+    margin-top: 260.56px;
+    width: 1240px;
+    height: 430px;
+    margin: 60px;
+    padding-left: 6px;
+    position: absolute;
+    position: relative;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.header-content {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 0;
+}
+
+button {
+    color: #d100d1;
+    background: transparent;
+    /* Ubah latar belakang menjadi transparan */
+    border: 2px solid #d100d1;
+    /* Gunakan warna yang sama dengan gradien BUY NOW */
+}
+
+.gaming {
+    margin-right: 500.1px;
+    margin-top: -45px;
+    width: 400px;
+
+}
+
+.text-light {
+    margin-top: 110.55PX;
+}
+
+.nav-btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 304.77px;
+}
+
+.btnn {
+    margin-right: 10px;
+    border: #d100d1;
+    background: linear-gradient(to right, #6a00f4, #d100d1);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.buttonn {
+    margin-right: 10px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.choose-chara{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px; /* Jarak antar kolom */ 
+}
+
+.card-container {
+    background-image: url(assets/Rectangle\ 6.png);
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px; /* Jarak antar kolom */
+    background-image: url(assets/Rectangle\ 6.png);
+    width: 300px;
+    /* Adjust width as needed */
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.diannerusel{
+    margin-top: 300px;
+    margin-left: 361px;
+}
+
+.card-header {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+
+}
+
+.card-container {
+    margin-right: 94px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 77px;
+    background-color: #3b1e71;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: #ffffff;
+}
+
+.name {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.company {
+    font-size: 1rem;
+    color: #cfc0ff;
+    margin-bottom: 20px;
+}
+
+.live-demo {
+    background-color: #e40fe1;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.live-demo:hover {
+    background-color: #d608d2;
+}
+
+.testimonial-container {
+    padding-top: 249px;
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.testimonial {
+    border: #e40fe1;
+    background-color: #e9edc9;
+    border-radius: 10px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.user-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+.quote {
+    font-style: italic;
+    font-size: 1.1rem;
+    margin-bottom: 15px;
+    color: #555;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+}
+
+.job-title {
+    font-size: 1rem;
+    color: #888;
+}
+
+.nonestyle {
+    color: #2D1E6B;
+}
+
+.head {
+    background-image: url(assets/image\ 24\ \(1\)\ 1.png);
+}
+
+.choose{
+    background-color: #2D1E6B;
+}
+
+.navpan{
+    display: flex;
+    align-items: center;
+}
+
+.aligned-elements{
+    flex: 1;
+}
+
+.elements{
+    margin-right: 52px;
+}
+
+.nav-link{
+    background: linear-gradient(to right, #6a00f4, #d100d1);
+}
